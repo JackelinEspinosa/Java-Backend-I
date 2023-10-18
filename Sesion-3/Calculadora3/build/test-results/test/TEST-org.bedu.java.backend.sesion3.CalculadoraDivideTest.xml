@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.bedu.java.backend.sesion3.CalculadoraDivideTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-10-14T21:54:26" hostname="WINDOW" time="0.002">
+  <properties/>
+  <testcase name="Prueba division" classname="org.bedu.java.backend.sesion3.CalculadoraDivideTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
